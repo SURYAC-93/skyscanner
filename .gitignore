@@ -1,0 +1,21 @@
+# IntelliJ specific files
+.idea/
+*.iml
+out/
+target/
+*.class
+*.log
+*.tmp
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+release.properties
+mvnw
+mvnw.cmd
+
+# OS generated files
+.DS_Store
+Thumbs.db
